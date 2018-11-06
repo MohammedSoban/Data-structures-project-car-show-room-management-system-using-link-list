@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: ConsoleApplication1, Configuration: Debug Win32 ------
+1>  CarShowroom.cpp
+1>d:\uni\3rd semester\dsa\dsa project carshowroom remastered\consoleapplication1\consoleapplication1\carshowroom.cpp(91): warning C4101: 'ptr' : unreferenced local variable
+1>d:\uni\3rd semester\dsa\dsa project carshowroom remastered\consoleapplication1\consoleapplication1\carshowroom.cpp(168): warning C4101: 'CarID' : unreferenced local variable
+1>  ConsoleApplication1.vcxproj -> D:\uni\3rd semester\DSA\DSA project carshowroom remastered\ConsoleApplication1\Debug\ConsoleApplication1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
